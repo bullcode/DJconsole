@@ -2,4 +2,6 @@
 Arduino based electric sound console.
 
 
-[Arduino](https://www.youtube.com/watch?v=Io8vtgQWIP8&feature=youtu.be)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Io8vtgQWIP8" frameborder="0" allowfullscreen></iframe>
+
+
