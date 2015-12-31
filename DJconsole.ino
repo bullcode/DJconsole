@@ -37,6 +37,7 @@ void loop()
     map(sensorValue, sensorLow, sensorHigh, potValPitch, 4000);
     
  
+  //run tone on port 8!
   tone(8, pitch, 20);
  
   // read potentiometer value who controls delay
